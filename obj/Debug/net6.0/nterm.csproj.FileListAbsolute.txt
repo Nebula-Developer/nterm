@@ -1,0 +1,15 @@
+C:\Users\nebul\Documents\nterm\bin\Debug\net6.0\nterm.exe
+C:\Users\nebul\Documents\nterm\bin\Debug\net6.0\nterm.deps.json
+C:\Users\nebul\Documents\nterm\bin\Debug\net6.0\nterm.runtimeconfig.json
+C:\Users\nebul\Documents\nterm\bin\Debug\net6.0\nterm.dll
+C:\Users\nebul\Documents\nterm\bin\Debug\net6.0\nterm.pdb
+C:\Users\nebul\Documents\nterm\obj\Debug\net6.0\nterm.csproj.AssemblyReference.cache
+C:\Users\nebul\Documents\nterm\obj\Debug\net6.0\nterm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nebul\Documents\nterm\obj\Debug\net6.0\nterm.AssemblyInfoInputs.cache
+C:\Users\nebul\Documents\nterm\obj\Debug\net6.0\nterm.AssemblyInfo.cs
+C:\Users\nebul\Documents\nterm\obj\Debug\net6.0\nterm.csproj.CoreCompileInputs.cache
+C:\Users\nebul\Documents\nterm\obj\Debug\net6.0\nterm.dll
+C:\Users\nebul\Documents\nterm\obj\Debug\net6.0\refint\nterm.dll
+C:\Users\nebul\Documents\nterm\obj\Debug\net6.0\nterm.pdb
+C:\Users\nebul\Documents\nterm\obj\Debug\net6.0\nterm.genruntimeconfig.cache
+C:\Users\nebul\Documents\nterm\obj\Debug\net6.0\ref\nterm.dll
