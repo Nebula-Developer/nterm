@@ -17,8 +17,20 @@ namespace NTerm.InputHandling {
         }
         public static String getInput(int y, string prefix) {
             Console.SetCursorPosition(0, y);
-            int x = prefix.Length + 1;
-            Console.Write(prefix + " ");
+            int x = prefix.Length + 2;
+
+            foreach (char c in prefix) {
+                if (c == '~') {
+                    Console.ForegroundColor = ConsoleColor.Cyan;
+                } else {
+                    Console.ForegroundColor = ConsoleColor.Gray;
+                }
+
+                Console.Write(c);
+            }
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.Write("$ ");
+            Console.ForegroundColor = ConsoleColor.Gray;
 
             Console.BackgroundColor = ConsoleColor.DarkCyan;
             Console.Write(" ");
